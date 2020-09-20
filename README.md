@@ -10,3 +10,5 @@ In this challenge, our goal was to understand the **spatial-temporal** movement 
 To know more about the challenge visit:
 * Workshop: https://openeyes-workshop.github.io/ 
 * Facebook Webpage: https://research.fb.com/programs/openeds-2020-challenge/
+
+**Note:** The dataset was only available for challenge and hence now training can not be done.
