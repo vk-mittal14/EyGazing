@@ -1,4 +1,4 @@
-# EyMazing: Predicting future gaze locations
+# EyMazing: Predicting Future Gaze Locations
 2nd Place Solution for [Facebook OpenEDS Gaze Prediction Challenge](https://research.fb.com/programs/openeds-2020-challenge/) by Vivek Mittal
 
 ![model](Drawing.png "Model Overview")
